@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Record-Play</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c37fc7e7-3675-49c2-9f61-8d0e92b35d81</testCaseGuid>
+</TestCaseEntity>
